@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/sanky20](github.com/sanky20)
 
-- 💬 Ask me about **python , react , next  , c++ , html and css**
+- 💬 Ask me about **C++,React.js,Node.js,Express.js,MongoDB,HTML,CSS,Data Structures & Algorithms**
 
 - 📫 How to reach me **sanskaarsharma3@gmail.com**
 
